@@ -1,4 +1,4 @@
-Introduccion
+introduccion
 =============
 
 Estes proytecto tiene como objetivo...
