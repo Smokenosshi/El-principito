@@ -18,6 +18,6 @@ Contents
 
 .. toctree::
 
- Introduccion
- Instalacion
- Uso
+ introduccion
+ instalacion
+ uso
